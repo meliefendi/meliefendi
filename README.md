@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meliefendi
 - 👀 I’m interested in ...Web DEvelopers
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ...melh_akkas@hotmail.com
 
