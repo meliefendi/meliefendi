@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meliefendi
 - 👀 I’m interested in ...Web DEvelopers
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...HTML,CSS,BOOSTRAP,JAVASCRİPT,EXPRESS JS,NODE JS,SQL,MONGODB
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ...melh_akkas@hotmail.com
 
